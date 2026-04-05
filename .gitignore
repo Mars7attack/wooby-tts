@@ -1,0 +1,21 @@
+# Models (Heavy weights)
+models/
+
+# Binaries & Compiled files
+bin/wooby-hotkey
+*.o
+*.out
+
+# Logs & Temporary files
+*.log
+*.pid
+/tmp/wooby-*
+
+# OS specific
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
